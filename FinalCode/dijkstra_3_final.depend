@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1461803856 source:g:\usa\sem2_spring_2016\algorithms_and_data_structures\itcs6114_project2_assignment\finalcode\main.cpp
+	<iostream>
+	<vector>
+	<map>
+	<string>
+	<list>
+	<fstream>
+	<stdio.h>
+	<string.h>
+	<sstream>
+	<math.h>
+	<stdlib.h>
+	<algorithm>
+
